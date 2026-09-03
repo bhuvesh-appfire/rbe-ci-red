@@ -1,0 +1,8 @@
+{
+  "name": "rbe-ci-red",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Journey fixture: main deliberately red (type error); PR-branch automated CI fixes are expected.",
+  "scripts": { "typecheck": "tsc --noEmit" },
+  "devDependencies": { "typescript": "5.6.3" }
+}
