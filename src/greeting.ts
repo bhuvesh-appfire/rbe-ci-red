@@ -8,4 +8,4 @@ export function greeting(name: string): string {
   return `Hello, ${name}!`;
 }
 
-export const answer: number = 'forty-two';
+export const answer: number = 42;
