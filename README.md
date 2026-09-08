@@ -10,3 +10,7 @@ main failing `ci` with a check-run annotation the CI-fix agent seeding consumes.
   exactly the behavior under test. Fix PRs are declined, never merged.
 
 Re-provision: `tests/journeys/scripts/provision-ci-red-fixtures.ts`.
+
+## Status
+
+CI-fix journey canary (mtsc1zxc-zdj4).
